@@ -10,13 +10,13 @@
   <meta name="description" content="Kaggle is the world&#x2019;s largest data science community with powerful tools and resources to help you achieve your data science goals." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
   <meta name="theme-color" content="#008ABC" />
-  <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" type="text/javascript">
-    window["pageRequestStartTime"] = 1772612482565;
-    window["pageRequestEndTime"] = 1772612482575;
+  <script nonce="RiIavzfAGISk05Nowl4eNw==" type="text/javascript">
+    window["pageRequestStartTime"] = 1772693155409;
+    window["pageRequestEndTime"] = 1772693155647;
     window["initialPageLoadStartTime"] = new Date().getTime();
   </script>
-  <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" id="gsi-client" src="https://accounts.google.com/gsi/client" async defer></script>
-  <script nonce="Rx0WcTN1jpujNzqDR08Z2w==">window.KAGGLE_JUPYTERLAB_PATH = "/static/assets/jupyterlab-v4/jupyterlab-index-306d417b05ddaab6.html";</script>
+  <script nonce="RiIavzfAGISk05Nowl4eNw==" id="gsi-client" src="https://accounts.google.com/gsi/client" async defer></script>
+  <script nonce="RiIavzfAGISk05Nowl4eNw==">window.KAGGLE_JUPYTERLAB_PATH = "/static/assets/jupyterlab-v4/jupyterlab-index-ea4c571bbadbc130.html";</script>
   <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous" /><link rel="preconnect" href="https://stats.g.doubleclick.net" /><link rel="preconnect" href="https://storage.googleapis.com" /><link rel="preconnect" href="https://apis.google.com" />
     <link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon" id="dynamic-favicon" />
   <link rel="manifest" href="/static/json/manifest.json" crossorigin="use-credentials">
@@ -32,7 +32,7 @@
     rel="stylesheet" media="print" id="async-google-font-1" />
   <link href="https://fonts.googleapis.com/css2?family=Google+Symbols:FILL@0..1&display=block"
     rel="stylesheet" media="print" id="async-google-font-2" />
-  <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" type="text/javascript">
+  <script nonce="RiIavzfAGISk05Nowl4eNw==" type="text/javascript">
     const styleSheetIds = ["async-google-font-1", "async-google-font-2"];
     styleSheetIds.forEach(function (id) {
       document.getElementById(id).addEventListener("load", function() {
@@ -48,7 +48,7 @@
   
     
  
-      <script nonce="Rx0WcTN1jpujNzqDR08Z2w==">
+      <script nonce="RiIavzfAGISk05Nowl4eNw==">
         try{(function(a,s,y,n,c,h,i,d,e){d=s.createElement("style");
         d.appendChild(s.createTextNode(""));s.head.appendChild(d);d=d.sheet;
         y=y.map(x => d.insertRule(x + "{ opacity: 0 !important }"));
@@ -56,7 +56,7 @@
         (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
         })(window,document,['.site-header-react__nav'],'dataLayer',2000,{'GTM-52LNT9S':true});}catch(ex){}
     </script>
-    <script nonce="Rx0WcTN1jpujNzqDR08Z2w==">
+    <script nonce="RiIavzfAGISk05Nowl4eNw==">
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
@@ -70,7 +70,7 @@
             }
         });
     </script>
-    <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" async src="https://www.googletagmanager.com/gtag/js?id=G-T7QHS60L4Q"></script>
+    <script nonce="RiIavzfAGISk05Nowl4eNw==" async src="https://www.googletagmanager.com/gtag/js?id=G-T7QHS60L4Q"></script>
 
 
   
@@ -92,7 +92,7 @@
   <meta name="twitter:site" content="@Kaggle" /> 
   
     
-    <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" type="application/ld+json">{"@context":"http://schema.org/","@type":"Dataset","name":"alzeimer's clinical dataset","description":"# Dataset\nThis dataset was created by Vinod Vadde\n\nReleased under Apache 2.0\n\n# Contents\n","url":"https://www.kaggle.com/vinodvadde/alzeimers-clinical-dataset","version":1,"keywords":[],"license":{"@type":"CreativeWork","name":"Apache 2.0","url":"https://www.apache.org/licenses/LICENSE-2.0"},"identifier":["9192929"],"includedInDataCatalog":{"@type":"DataCatalog","name":"Kaggle","url":"https://www.kaggle.com"},"creator":{"@type":"Person","name":"Vinod Vadde","url":"https://www.kaggle.com/vinodvadde","image":"https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png"},"distribution":[{"@type":"DataDownload","requiresSubscription":true,"encodingFormat":"zip","fileFormat":"zip","contentUrl":"https://www.kaggle.com/datasets/vinodvadde/alzeimers-clinical-dataset/download?datasetVersionNumber=1","contentSize":"274395 bytes"}],"commentCount":0,"dateModified":"2026-01-04T19:13:49.883Z","discussionUrl":"https://www.kaggle.com/vinodvadde/alzeimers-clinical-dataset/discussion","alternateName":"","isAccessibleForFree":true,"thumbnailUrl":"https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-2.png-20591022/dataset-card.png","interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http://schema.org/CommentAction","userInteractionCount":0},{"@type":"InteractionCounter","interactionType":"http://schema.org/DownloadAction","userInteractionCount":22},{"@type":"InteractionCounter","interactionType":"http://schema.org/ViewAction","userInteractionCount":157},{"@type":"InteractionCounter","interactionType":"http://schema.org/LikeAction","userInteractionCount":1}]}</script>
+    <script nonce="RiIavzfAGISk05Nowl4eNw==" type="application/ld+json">{"@context":"http://schema.org/","@type":"Dataset","name":"alzeimer's clinical dataset","description":"# Dataset\nThis dataset was created by Vinod Vadde\n\nReleased under Apache 2.0\n\n# Contents\n","url":"https://www.kaggle.com/vinodvadde/alzeimers-clinical-dataset","version":1,"keywords":[],"license":{"@type":"CreativeWork","name":"Apache 2.0","url":"https://www.apache.org/licenses/LICENSE-2.0"},"identifier":["9192929"],"includedInDataCatalog":{"@type":"DataCatalog","name":"Kaggle","url":"https://www.kaggle.com"},"creator":{"@type":"Person","name":"Vinod Vadde","url":"https://www.kaggle.com/vinodvadde","image":"https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png"},"distribution":[{"@type":"DataDownload","requiresSubscription":true,"encodingFormat":"zip","fileFormat":"zip","contentUrl":"https://www.kaggle.com/datasets/vinodvadde/alzeimers-clinical-dataset/download?datasetVersionNumber=1","contentSize":"274395 bytes"}],"commentCount":0,"dateModified":"2026-01-04T19:13:49.883Z","discussionUrl":"https://www.kaggle.com/vinodvadde/alzeimers-clinical-dataset/discussion","alternateName":"","isAccessibleForFree":true,"thumbnailUrl":"https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-2.png-20591022/dataset-card.png","interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http://schema.org/CommentAction","userInteractionCount":0},{"@type":"InteractionCounter","interactionType":"http://schema.org/DownloadAction","userInteractionCount":24},{"@type":"InteractionCounter","interactionType":"http://schema.org/ViewAction","userInteractionCount":164},{"@type":"InteractionCounter","interactionType":"http://schema.org/LikeAction","userInteractionCount":1}]}</script>
 
 
   
@@ -103,14 +103,14 @@
 
 
 
-    <script nonce="Rx0WcTN1jpujNzqDR08Z2w==">window['useKaggleAnalytics'] = true;</script>
+    <script nonce="RiIavzfAGISk05Nowl4eNw==">window['useKaggleAnalytics'] = true;</script>
 
-  <script id="gapi-target" nonce="Rx0WcTN1jpujNzqDR08Z2w==" src="https://apis.google.com/js/api.js" defer
+  <script id="gapi-target" nonce="RiIavzfAGISk05Nowl4eNw==" src="https://apis.google.com/js/api.js" defer
     async></script>
-  <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" src="/static/assets/runtime.js?v=81ecf1f5f06d7db9"></script>
-  <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" src="/static/assets/vendor.js?v=704070c93829c513"></script>
-  <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" src="/static/assets/app.js?v=3ce93851d6919fe4"></script>
-    <script nonce="Rx0WcTN1jpujNzqDR08Z2w==" type="text/javascript">
+  <script nonce="RiIavzfAGISk05Nowl4eNw==" src="/static/assets/runtime.js?v=9d695907a091adba"></script>
+  <script nonce="RiIavzfAGISk05Nowl4eNw==" src="/static/assets/vendor.js?v=704070c93829c513"></script>
+  <script nonce="RiIavzfAGISk05Nowl4eNw==" src="/static/assets/app.js?v=56b159da10e04627"></script>
+    <script nonce="RiIavzfAGISk05Nowl4eNw==" type="text/javascript">
       window.kaggleStackdriverConfig = {
         key: 'AIzaSyA4eNqUdRRskJsCZWVz-qL655Xa5JEMreE',
         projectId: 'kaggle-161607',
@@ -131,7 +131,7 @@
 
 
 
-<script nonce="Rx0WcTN1jpujNzqDR08Z2w==" type="text/x-mathjax-config">
+<script nonce="RiIavzfAGISk05Nowl4eNw==" type="text/x-mathjax-config">
     MathJax.Hub.Config({
     jax: ['input/TeX', 'output/SVG'],
     "HTML-CSS": {
@@ -165,7 +165,7 @@
     extensions: ["Safe.js"],
     });
 </script>
-<script type="text/javascript" nonce="Rx0WcTN1jpujNzqDR08Z2w==">
+<script type="text/javascript" nonce="RiIavzfAGISk05Nowl4eNw==">
   window.addEventListener("DOMContentLoaded", () => {
     const head = document.getElementsByTagName("head")[0];
     const lib = document.createElement("script");
